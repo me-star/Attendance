@@ -62,9 +62,10 @@
                 aria-describedby="phoneHelp">
                 <small id="phoneHelp" class="form-text text-muted">We'll never share your number with anyone else.</small>
             </div>
-            <div class="d-grid gap-2">
+            
+                <a href="viewrecords.php" class="btn btn-default">Back to List</button>
                 <button type="submit" name="submit" class="btn btn-success">Submit Changes</button>
-            </div>
+            
 
     </form>
     
