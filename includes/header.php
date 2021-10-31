@@ -19,7 +19,7 @@
       <div class="container">
         <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
       <div class="container-fluid">
-        <a class="navbar-brand" href="/Attendance/index.php">IT Conference</a>
+        <a class="navbar-brand" href="/index.php">IT Conference</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
          aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
            <span class="navbar-toggler-icon"></span>
@@ -27,10 +27,10 @@
     <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="/Attendance/index.php">Home</a>
+          <a class="nav-link active" aria-current="page" href="/index.php">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="/Attendance/scripts/viewrecords.php">View Attendees</a>
+          <a class="nav-link" href="/scripts/viewrecords.php">View Attendees</a>
         </li>              
       </ul>
     </div>
